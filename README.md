@@ -6,7 +6,6 @@ The frontend was built using ChatEngine for the chat application, Redux Toolkit 
 
 This project uses:
 
-- [vite](https://vitejs.dev/guide/)
 - [node](https://nodejs.org/en/download)
 - [express](https://expressjs.com/)
 - [react router](https://reactrouter.com/en/v6.3.0/getting-started/installation)
