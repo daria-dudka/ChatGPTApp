@@ -20,7 +20,7 @@ This project uses:
 
 In order to test the app you can login as a test user (login: testuser, password: secret)
 
-Standard Chat Test - allows to send text and attachments to the members of the chat
-AiAssist_test - allows the user to receive autocompletion while entering the text
-AiChat_test - AI_bot communicates with the user
+Standard Chat Test - allows to send text and attachments to the members of the chat<br>
+AiAssist_test - allows the user to receive autocompletion while entering the text<br>
+AiChat_test - AI_bot communicates with the user<br>
 AiCode_test - AI_bot replies to the user with code
