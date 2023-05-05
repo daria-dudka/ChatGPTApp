@@ -11,7 +11,7 @@ import AiAssist from '../customMessageForms/AiAssist';
 
 const Chat = ({ user, secret }) => {
   const chatProps = useMultiChatLogic(
-    import.meta.env.VITE_PROJECT_ID,
+    process.env.REACT_APP_PROJECT_ID,
     user,
     secret
   );
